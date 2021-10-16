@@ -7,7 +7,7 @@ _Si otros usuarios han tomado el total de motociclistas en el bloque, debera apa
 
 ### Otras soluciones
 
-_Resolucion de este ejercicio en el AngularJS:_
+_Resolucion de este ejercicio en framework Angular:_
 
 ```
 https://github.com/VlV-515/2-Motociclistas-Angular
